@@ -1,6 +1,6 @@
 # Rebellion_festival
 
-Create a printable version of the rebellion festival lineup
+A small project to create a printable version of the rebellion festival lineup
 
 data is downloaded from: https://www.rebellionfestivals.com/line-up
 
